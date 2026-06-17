@@ -50,11 +50,7 @@ I'm passionate about building practical software, exploring web technologies, an
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mahesh-78-de&theme=tokyonight" />
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Mahesh-78-de&theme=tokyonight)
 
 ---
 
